@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# PyTest cache
+.pytest_cache/
+
+# IDE & Editor settings
+.vscode/
+.idea/
+
+# Type Hinting Stubs & Cache
+.stubs/
+.vfscache
+.vfsmeta
+.work-folder-info

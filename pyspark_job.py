@@ -7,3 +7,4 @@ def clean_data(df):
     df = df.withColumn("amount_with_tax", col("amount") * 1.20)
 
     return df
+print("verify trigger")
